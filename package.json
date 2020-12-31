@@ -1,0 +1,11 @@
+{
+  "name": "@ifaafa/shipjs-temp",
+  "version": "1.0.0",
+  "description": "sample package for testing shipjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
