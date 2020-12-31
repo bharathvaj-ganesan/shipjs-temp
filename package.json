@@ -4,8 +4,12 @@
   "description": "sample package for testing shipjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "shipjs prepare"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "shipjs": "0.23.0"
+  }
 }
