@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "shipjs prepare"
+    "shipjs:prepare": "shipjs prepare",
+    "shipjs:trigger": "shipjs trigger"
   },
   "author": "",
   "license": "MIT",
