@@ -1,6 +1,6 @@
 {
   "name": "@ifaafa/shipjs-temp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "sample package for testing shipjs",
   "main": "index.js",
   "scripts": {
